@@ -1,0 +1,20 @@
+A Video ID is a string of eleven characters automatically assigned to every YouTube video when they are uploaded to identify the video. They are usually found after a "watch?v=" such as in this URL: https://www.youtube.com/watch?v=qTGUSVf5Gto
+
+Sometimes, however, they can just be after a "/" such as in this YouTube URL used when using the Share function on a video:
+https://youtu.be/qTGUSVf5Gto
+
+Other less common variants exist. Usually Video IDs can be found easily from the URL.
+
+
+
+Video IDs are very important for finding information about videos, and even the videos themselves. They can be used to find the videos':
+
+YouTube Page (https://www.youtube.com/watch?v=XXXXXXXXXXX)
+
+Thumbnails (https://i.ytimg.com/vi/XXXXXXXXXXX/maxresdefault.jpg) (https://i1.ytimg.com/vi/XXXXXXXXXXX/maxresdefault.jpg)
+
+Storyboards (https://web.archive.org/web/*/https://i.ytimg.com/sb/_qIfYVQnYmc* Example of a Wayback Machine list of URLs with the prefix of "https://i.ytimg.com/sb/_qIfYVQnYmc" with a wildcard at the end of the URL qIfYVQnYmc is the Video ID in this example
+
+Video Files (https://web.archive.org/web/0oe_/http://wayback-fakeurl.archive.org/yt/XXXXXXXXXXX (for oldest video index) https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/XXXXXXXXXXX (for newest video index))
+
+etc..
