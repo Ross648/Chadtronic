@@ -1,4 +1,4 @@
-A Video ID is a string of eleven characters automatically assigned to every YouTube video when they are uploaded to identify the video. They are usually found after a "watch?v=" such as in this URL: https://www.youtube.com/watch?v=qTGUSVf5Gto
+A Video ID is a string of eleven characters automatically assigned to every YouTube video when they are uploaded to identify the video. The Video ID on any given video cannot be changed. They are usually found after a "watch?v=" such as in this URL: https://www.youtube.com/watch?v=qTGUSVf5Gto
 
 Sometimes, however, they can just be after a "/" such as in this YouTube URL used when using the Share function on a video:
 https://youtu.be/qTGUSVf5Gto
